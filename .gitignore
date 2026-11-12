@@ -1,0 +1,7 @@
+node_modules
+dist
+feedback.gist
+.env
+.env.*
+*.pem
+*.key
